@@ -51,3 +51,11 @@ function renderNumbers(numbers) {
 generateButton.addEventListener("click", () => {
   renderNumbers(createNumberSet());
 });
+
+if ("serviceWorker" in navigator && window.location.protocol !== "file:") {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js").catch((error) => {
+      console.error("Không thể đăng ký chế độ offline:", error);
+    });
+  });
+}

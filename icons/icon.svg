@@ -1,0 +1,42 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1024"
+  height="1024"
+  viewBox="0 0 1024 1024"
+>
+  <rect width="1024" height="1024" fill="#f7f4ed" />
+  <g opacity="0.08" stroke="#13243a" stroke-width="3">
+    <path d="M0 160h1024M0 288h1024M0 416h1024M0 544h1024M0 672h1024M0 800h1024" />
+  </g>
+  <circle
+    cx="512"
+    cy="512"
+    r="302"
+    fill="#fffdf8"
+    stroke="#13243a"
+    stroke-width="38"
+  />
+  <path
+    d="M282 292A302 302 0 0 1 728 282"
+    fill="none"
+    stroke="#ee5b4b"
+    stroke-linecap="round"
+    stroke-width="30"
+  />
+  <text
+    x="512"
+    y="690"
+    fill="#ee5b4b"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="530"
+    font-style="italic"
+    font-weight="700"
+    text-anchor="middle"
+  >6</text>
+  <circle cx="364" cy="812" r="15" fill="#13243a" />
+  <circle cx="414" cy="812" r="15" fill="#13243a" />
+  <circle cx="464" cy="812" r="15" fill="#13243a" />
+  <circle cx="514" cy="812" r="15" fill="#13243a" />
+  <circle cx="564" cy="812" r="15" fill="#13243a" />
+  <circle cx="614" cy="812" r="15" fill="#13243a" />
+</svg>
