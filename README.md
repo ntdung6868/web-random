@@ -1,6 +1,6 @@
 # Bộ số may mắn
 
-Trang web tĩnh tạo 5 số ngẫu nhiên không trùng nhau từ 01 đến 55.
+Trang web tĩnh tạo 6 số ngẫu nhiên không trùng nhau từ 01 đến 55.
 
 ## Chạy local
 

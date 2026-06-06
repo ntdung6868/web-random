@@ -25,7 +25,7 @@ function createNumberSet() {
     ];
   }
 
-  return availableNumbers.slice(0, 5).sort((a, b) => a - b);
+  return availableNumbers.slice(0, 6).sort((a, b) => a - b);
 }
 
 function renderNumbers(numbers) {
