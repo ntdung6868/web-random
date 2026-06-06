@@ -4,7 +4,7 @@ Trang web tĩnh tạo 6 số ngẫu nhiên không trùng nhau từ 01 đến 55.
 
 ## Cài trên iPhone
 
-1. Mở `https://ntdung6868.github.io/web-random/` bằng Safari.
+1. Mở `https://randomvietlott.vercel.app/` bằng Safari.
 2. Bấm nút Chia sẻ.
 3. Chọn **Thêm vào Màn hình chính**.
 
